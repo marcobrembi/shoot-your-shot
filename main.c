@@ -68,7 +68,7 @@ int main() {
     }
     return 0;
 }
-// --------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------dajdoiqwjo fhwuwq
 
 // Funzione che calcola il punto dove la bomba cadrà
 void spara(FILE *file, Punto *colpo) {
