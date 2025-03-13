@@ -1,0 +1,25 @@
+Benvenuto in 'Shoot Your Shot'!
+Obiettivo: colpire un bersaglio calcolando traiettoria e angoli.
+
+Regole:
+
+Hai 5 colpi per livello.
+
+Supera tutti i livelli per vincere. Ogni livello riduce il raggio d'azione.
+
+Se finisci i colpi senza colpire il bersaglio, e' Game Over.
+
+Istruzioni:
+
+Inserisci l'alzo (0-70 gradi) per determinare la portata verticale.
+
+Inserisci la rotazione (-45 gradi a +45 gradi) per la direzione orizzontale.
+
+Premi invio per sparare! Il programma calcolera' il punto di impatto del missile.
+
+Se colpisci entro il raggio d'azione, avanzi al livello successivo.
+
+Continua fino alla vittoria o all'esaurimento dei colpi. Buona fortuna!
+
+
+=====================================
