@@ -20,7 +20,7 @@ void fine(FILE *file, int *vita);
 void ricomincia(FILE *file);
 void lettura(FILE *generico);
 
-
+//Commento a caso
 
 // Il Main
 int main() {
